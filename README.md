@@ -15,6 +15,6 @@ With that said, at certain point the PS agents have to spend long time in order 
    <br /> <br />
 As soon as the spreadsheet is ready to be used. Two buttons should be added to the sheet where the Index is located. <br />
   &nbsp;&nbsp;&nbsp;&nbsp;1. Scroll: If you click on a category, located on the column 1a, using the button will save you scrolling time - by taking you to the row where the prefabs, that belong to that category, are located. <br />
-  &nbsp;&nbsp;&nbsp;&nbsp;2. Search: If you tap on a prefab, located in the column 1b, using the button will take you to the sheet where the Database is located and will scroll to the row where that specific prefab is located. 
+  &nbsp;&nbsp;&nbsp;&nbsp;2. Search: If you tap on a prefab, located on the column 1b, using the button will take you to the sheet where the Database is located and will scroll to the row where that specific prefab is located. 
    <br /> <br />
 A guide will be recorded and provided by me as soon as possible. 
