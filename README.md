@@ -5,10 +5,10 @@ If you have ever worked as a Player Support Agent, I'm pretty sure you have noti
  <br /> <br />
 With that said, at certain point the PS agents have to spend long time in order to find the prefab that works better for a specific situation. When I realized about this issue, I thought it would be a good idea to create an Index of prefabs and these two scripts allowed me to find the prefab I needed as fast as possible. In order to make them work, the spreadsheet needs to have these two sheets:
  <br /> <br />
-&nbsp;&nbsp;&nbsp;&nbsp;1. Index: On this sheet you will have two columns (not necessarily the first ones):<br />
+&nbsp;&nbsp;&nbsp;&nbsp;1. INDEX: On this sheet you will have two columns (not necessarily the first ones):<br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Categories.<br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Index of prefabs. The name of the prefabs should be listed under the category they belong to. <br />
-&nbsp;&nbsp;&nbsp;&nbsp;2. Database: On this sheet you will have the following columns:<br />
+&nbsp;&nbsp;&nbsp;&nbsp;2. DB: On this sheet you will have the following columns:<br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. The 1st column should be a copy of the column 1b.<br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. The 2nd column should be for the English prefabs.<br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. The following columns should be used for the remaining languages. 
