@@ -3,7 +3,7 @@ If you have ever worked as a Player Support Agent, I'm pretty sure you have noti
 &nbsp;&nbsp;&nbsp;&nbsp;1. It takes too long for the Team Leads to go through all the prefabs in order to remove the unnecesary ones.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;2. It's very likely to end up entering duplicate as well as unnecesary prefabs. 
  <br /> <br />
-At certain point you will have to spend long time in order to find the prefab that works better for a specific situation. When I realized about this issue, I thought it would be a good idea to create an Index of prefabs and these two Scripts allowed me to find the prefab I needed as fast as possible. In order to make them work, the Spreadsheet needs to have these two Sheets:
+At certain point you will have to spend long time in order to find the prefab that works better for a specific situation. When I realized about this issue, I thought it would be a good idea to create an Index of prefabs - and these two Scripts allowed me to find the prefab I needed as fast as possible, given the Index. In order to make them work, the Spreadsheet needs to have these two Sheets:
  <br /> <br />
 &nbsp;&nbsp;&nbsp;&nbsp;1. INDEX: On this Sheet you will have two columns:<br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Categories. (Column B)<br />
